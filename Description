@@ -1,0 +1,2 @@
+Server.py is a python server which can handel sqlite3 data base to record traffic through a web application or an web page. Other files are to handel the front end
+the web application part and the data base part.
